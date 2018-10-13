@@ -1,3 +1,3 @@
 # SpeechRecognitionPython
 
-Project in python for Speech Recognition
+Project for Speech Recognition in python.
